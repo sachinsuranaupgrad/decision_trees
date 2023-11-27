@@ -1,4 +1,4 @@
-age,duration,campaign,pdays,previous,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,id,job,marital,education,default,housing,loan,contact,month,day_of_week,poutcome
+oldage,duration,campaign,pdays,previous,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,id,job,marital,education,default,housing,loan,contact,month,day_of_week,poutcome
 33,122,4,999,0,1.4,93.444,-36.1,4.963,5228.1,2041,9,2,5,0,2,0,0,1,1,1
 45,133,1,999,0,-1.8,92.89299999999999,-46.2,1.25,5099.1,399,6,0,6,0,0,2,0,6,0,1
 39,302,1,999,0,1.1,93.994,-36.4,4.857,5191.0,1400,0,1,6,1,0,0,1,6,0,1
